@@ -18,3 +18,4 @@
 - [ ] Tensorflow(or Pythorch)
 - [ ] Spring boot(or Node.js)
 - [ ] Crawling
+- [ ] CI / CD
