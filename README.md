@@ -8,7 +8,7 @@
 
 ## Material
 
-[Google Drive](https://drive.google.com/drive/u/1/my-drive)
+[Google Drive](https://drive.google.com)
 
 ## To do
 
