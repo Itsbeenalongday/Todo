@@ -16,10 +16,10 @@
 - [x] Rails
 - [x] CS study
 - [x] PS for coding test
+- [x] Crawling
+- [x] CI / CD
 
 ## Challenge
 
 - [ ] Tensorflow(or Pythorch)
 - [ ] Spring boot(or Node.js)
-- [ ] Crawling
-- [ ] CI / CD
