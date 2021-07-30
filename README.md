@@ -18,9 +18,10 @@
 - [x] React
 - [x] Rails
 - [x] NestJs
+- [ ] PS
 
 ### Wait
-- [ ] PS for coding test
+- [ ] Jeklly github.io notion 연동
 - [ ] Crawling
 
 ### Ready
