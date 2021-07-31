@@ -18,10 +18,10 @@
 - [x] React
 - [x] Rails
 - [x] NestJs
-- [ ] PS
+- [x] Jeklly github.io notion 연동
+- [x] PS
 
 ### Wait
-- [ ] Jeklly github.io notion 연동
 - [ ] Crawling
 
 ### Ready
